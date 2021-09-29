@@ -1,0 +1,1 @@
+This project is a basic website that provides links to recipes. At the end of creating it I will be comfortable using HTML and CSS to create a website.
