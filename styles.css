@@ -1,0 +1,19 @@
+/*CSS STYLESHEET*/
+
+body {
+    background-color: RGB(255, 252, 201);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    color: red;
+    font-family: Copperplate;
+    text-shadow: 1px 1px 3px black;
+}
+img {
+    width: 300px
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+}
