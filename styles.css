@@ -3,10 +3,13 @@
 body {
     background-color: RGB(255, 252, 201);
     font-family: Arial, Helvetica, sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 300px;
 }
 
 h1, h2 {
-    color: red;
+    color: rgb(224, 26, 26);
     font-family: Copperplate;
     text-shadow: 1px 1px 3px black;
 }
@@ -14,8 +17,20 @@ img {
     width: 300px
 }
 
-a {
+.link {
+    display: inline-block;
+    width: 7em;
+    text-align: center;
+    background-color: rgb(228, 141, 141);
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-}
+    border: 2px solid black;
+    padding: 5px;
+    width: 100px;
+    box-shadow: 1px 1px 1px black;
+    }
+
+    p {
+        max-width: 300px;
+    }
